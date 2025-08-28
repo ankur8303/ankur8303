@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/ankursingh2694" target="blank"><img src="https://img.shields.io/twitter/follow/ankursingh2694?logo=twitter&style=for-the-badge" alt="ankursingh2694" /></a> </p>
 
-- I’m currently working on [Hsquareliving](https://www.hsquareliving.com/)
+- I’m currently working on [Tractor Junction](https://www.tractorjunction.com/)
 
-- I’m currently learning **ReactJs,NodeJs and NextJs**
+- I’m currently learning **GraphQA and Node JS**
 
 - How to reach me **singhankur150820@gmail.com, 7991271790**
 
